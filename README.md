@@ -3,8 +3,10 @@
 ## Getting Started (main.dart)
 
 > $ flutter pub get
-> 
-> $ flutter run server/main.dart
+> $ cd model
+> $ dart pub get
+> $ cd ../server
+> $ dart run server/main.dart
 
 
 ## Getting Started (server/main.dart)
